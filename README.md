@@ -22,6 +22,9 @@ In another terminal window, start the app:
 
 `$ yarn install`
 
+After you `yarn start` the app, look at the Parity UI. You should see a request to deploy a contract. Enter your password
+and click CONFIRM REQUEST to sign the contract.
+
 ```bash
 $ yarn start
 yarn run v1.3.2
