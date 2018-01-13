@@ -1,0 +1,17 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon app.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "web3": "^1.0.0-beta.27"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
